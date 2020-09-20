@@ -1,0 +1,110 @@
+{
+  "nodes": [
+    {
+      "name": "所有投诉",
+      "id": 0
+    },
+    {
+      "name": "空气污染",
+      "id": 1
+    },
+    {
+      "name": "水质污染",
+      "id": 2
+    },
+    {
+      "name": "多重污染",
+      "id": 3
+    },
+    {
+      "name": "未知",
+      "id": 4
+    },
+    {
+      "name": "工厂",
+      "id": 5
+    },
+    {
+      "name": "资源开采",
+      "id": 6
+    },
+    {
+      "name": "垃圾/污水处理",
+      "id": 7
+    },
+    {
+      "name": "养殖场/农场",
+      "id": 8
+    },
+    {
+      "name": "未知",
+      "id": 9
+    },
+    {
+      "name": "未回应",
+      "id": 10
+    },
+    {
+      "name": "不承认污染",
+      "id": 11
+    },
+    {
+      "name": "承认污染，作出整改",
+      "id": 12
+    },
+    {
+      "name": "承诺将调查核实",
+      "id": 13
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 41,
+      "label": 41
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 42,
+      "label": 42
+    },    
+    {
+      "source": 0,
+      "target": 3,
+      "value": 48,
+      "label": 48
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 5,
+      "label": 5
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 27,
+      "label": 82
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 20,
+      "label": 82
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 33,
+      "label": 82
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 2,
+      "label": 82
+    }
+  ]
+}
